@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monogame 2.5 - Moving in Waves and Circles", "Monogame 2.5 - Moving in Waves and Circles\Monogame 2.5 - Moving in Waves and Circles.csproj", "{93D28492-D6F5-40A3-BE30-DE41B3B051D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93D28492-D6F5-40A3-BE30-DE41B3B051D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D28492-D6F5-40A3-BE30-DE41B3B051D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D28492-D6F5-40A3-BE30-DE41B3B051D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D28492-D6F5-40A3-BE30-DE41B3B051D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36A8097E-0C23-4056-9BAB-36458F640566}
+	EndGlobalSection
+EndGlobal
